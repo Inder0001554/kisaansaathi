@@ -1,5 +1,5 @@
 // src/controllers/advisoryController.js
-import Advisory from "../models/Advisory.js";
+import Advisory from "../models/advisory.js";
 
 // ✅ GET advisories (region-based for users)
 export const getAdvisories = async (req, res, next) => {
