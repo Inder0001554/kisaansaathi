@@ -1,4 +1,4 @@
-import Crop from "../models/Crop.js";
+import Crop from "../models/crop.js";
 
 // 📤 Create Crop
 export const createCrop = async (req, res) => {
